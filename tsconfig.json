@@ -7,6 +7,7 @@
     "baseUrl": "./",
     "paths": {
       "@admin/*": ["src/app/modules/admin/*"],
+      "@shared/*": ["src/app/modules/shared/*"],
       "@environments/*": ["src/environments/*"],
     },
     "noImplicitOverride": true,
